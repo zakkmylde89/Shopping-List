@@ -1,5 +1,7 @@
 # Shopping List Project
 
+A simple shopping list project from the Traversy Media Modern JavaScript Course
+
 ## Specs
 
 1. Add items to list via form
@@ -10,5 +12,3 @@
 6. Click on an item to put into 'edit mode' and add to form
 7. Update item
 8. Deploy to Netlify
-
-Git setup confirm
